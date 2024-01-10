@@ -1,0 +1,25 @@
+# Section 1
+## What's AWS?
+Its a Cloud Provider of several services that you can use on **demand** and **scale** easly
+* Netflix is powered by AWS
+![Alt text](images/awsservices.png)
+* With aws we can build sophisticated, scalable applications 
+* Use cases include
+    * Enterprise IT
+    * Backup & Storage
+    * Big Data analytics
+    * Website hosting
+    * Mobile & Social Apps
+    * Gaming
+## Infrastructure
+![Alt text](images/infrastructure.png)   
+
+### Regions
+A region is a **cluster of data centers**.
+
+![Alt text](images/regions.png)
+
+![Alt text](images/question1.png)
+
+### Availability zones
+![Alt text](images/zones.png)

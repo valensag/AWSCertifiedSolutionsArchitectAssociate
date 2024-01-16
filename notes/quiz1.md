@@ -1,0 +1,10 @@
+# Quiz 1
+![Alt text](images/quiz1/p1.png)
+![Alt text](images/quiz1/p2.png)
+![Alt text](images/quiz1/p3.png)
+![Alt text](images/quiz1/p4.png)
+![Alt text](images/quiz1/p5.png)
+![Alt text](images/quiz1/p6.png)
+![Alt text](images/quiz1/p7.png)
+![Alt text](images/quiz1/p8.png)
+![Alt text](images/quiz1/p9.png)

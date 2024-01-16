@@ -1,0 +1,53 @@
+# Section 3
+![Alt text](images/iam.png)
+We create user because we want to allow them to use aws account and we need to give them permissions
+
+![Alt text](images/permissions.png)
+![Alt text](images/policies.png)
+
+# Section 4
+![Alt text](images/MFA.png)
+![Alt text](images/MFAoptions.png)
+A good practice is to enable a MFA to protect the root user
+
+![Alt text](images/wsaccess.png)
+![Alt text](images/awscli.png)
+![Alt text](images/awssdk.png)
+
+## AWS CLI
+we have to download the application then we have to create an **access key** and **aws secret access key** in order to log in from the console, also we should define a default **region name**
+![Alt text](images/cliconfig.png)
+
+### Commands
+* aws iam list-users
+![Alt text](images/cliusers.png)
+This is possible because the user have permissions if we remove it the user wouldn't be able to check the list of ussers. We have to go to Group, admins and add the user 
+
+## AWS CloudShell
+![Alt text](images/awscloudshell.png)
+We could also crete a text file from the console and download it
+![Alt text](images/awsdownload.png)
+
+## AWS Roles
+A role is not a physical user it's like a virtual server
+![Alt text](images/awsroles.png)
+
+* We can create roles and assign permissions
+
+![Alt text](images/iamsecuritytools.png)
+* We can create reports to check the services used by our users and the status of their credentials
+
+![Alt text](images/credentialreport.png)
+* This reports have a lot of information related with
+    * user
+    * created day
+    * mfa active
+    * access key activated or not
+    * arn
+* Access Advaiser is a section that shows all the servicess that the user las accessed and what don't have access
+
+## Best Practices
+![Alt text](images/iambestpractices.png)
+![Alt text](images/iamsummary.png)
+
+

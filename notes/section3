@@ -21,6 +21,9 @@ we have to download the application then we have to create an **access key** and
 ### Commands
 * aws iam list-users
 ![Alt text](images/cliusers.png)
+
+list users vale
+![Alt text](images/clilistusers.png)
 This is possible because the user have permissions if we remove it the user wouldn't be able to check the list of ussers. We have to go to Group, admins and add the user 
 
 ## AWS CloudShell

@@ -40,7 +40,10 @@ You should select the instance that fit best with your application depending of 
 
 * If you stop and instant and then rerun, aws is going to change de Public IP Address
 
+![Alt text](images/publicaddressEC2.png)
 
 ---
 ## EC2 Instance Types
 ![Alt text](images/instancetypes.png)
+
+![Alt text](images/instance-generalpurpose.png)
